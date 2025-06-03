@@ -1,4 +1,4 @@
-# Week3: Deep Learning: Histopathologic Cancer Detection
+# Week3: CNN: Histopathologic Cancer Detection
 
 ### Project Overview
 
