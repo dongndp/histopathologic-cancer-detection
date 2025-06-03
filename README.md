@@ -1,4 +1,4 @@
-# CSCA 5642 Deep Learning - Week3: Histopathologic Cancer Detection
+# Week3: Deep Learning: Histopathologic Cancer Detection
 
 ### Project Overview
 
